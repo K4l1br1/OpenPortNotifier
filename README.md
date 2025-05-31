@@ -2,6 +2,7 @@
 Прежде чем использовать скрипт, нужно создать бота в телеграме и добавить в файл .env токен бота, а также id чата. Получить его так: https://api.telegram.org/bot<Токен вашего бота>/getUpdates\
 Переменные в .env: TOKEN, CHAT_ID
 
+```pip install -r requirements.txt ```
 ```
 usage: main.py [-h] [-L LIST] [ip]
 
